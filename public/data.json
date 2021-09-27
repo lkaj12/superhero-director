@@ -1,0 +1,74 @@
+[
+    {
+      "id": 181,
+      "name": "Sergey Brin",
+      "address": "USA",
+      "netWorth": 20000,
+      "image": "https://www.investopedia.com/thmb/0UB4TaNOE2Hm4NqADMIcveHUiKA=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-144948913-67ccee1c4f4c4845b69f4deb67bc6c7c.jpg",
+      "company": " Alphabe"
+    },
+    {
+      "id": 281,
+      "name": "elon mask",
+      "address": "USA",
+      "netWorth": 85000,
+      "image": "https://www.investopedia.com/thmb/IyItbsK_Q8xM-qgPDkntPpoZtDc=/1665x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1215628293-c32a14bc41c34aa9adee9e41f6c7fb68.jpg",
+      "company": "Tesla"
+    },
+    {
+      "id": 381,
+      "name": " Bernard Arnault",
+      "address": "Paris",
+      "netWorth": 20000,
+      "image": "https://www.investopedia.com/thmb/xa7mk6am1_g40iopZBhoH7zNwu4=/1665x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-696695914-895a5475a7f8412c9239900be0ea5179.jpg",
+      "company": "LVMH"
+    },
+    {
+      "id": 581,
+      "name": "Larry Page",
+      "address": "USA",
+      "netWorth": 35000,
+      "image": "https://www.investopedia.com/thmb/0UB4TaNOE2Hm4NqADMIcveHUiKA=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-144948913-67ccee1c4f4c4845b69f4deb67bc6c7c.jpg",
+      "company": "Google"
+    },
+    {
+      "id": 681,
+      "name": " Bill Gates",
+      "address": "USA",
+      "netWorth": 40000,
+      "image": " https://www.investopedia.com/thmb/KY3JGY9GGlkJJSVupUBwunDpaIg=/2400x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-948065808-ba10e6df430c414fbc496dededf1db2b.jpg",
+      "company": "Microsoft"
+    },
+    {
+      "id": 581,
+      "name": "Jeff Bezos",
+      "address": "USA",
+      "netWorth": 60000,
+      "image": " https://www.investopedia.com/thmb/906TFriZ9VGfK92kd2G9EX7jIxY=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1036094130-cf8da629f9b44c81a0b1398311ac5787.jpg",
+      "company": "Amazon"
+    },
+    {
+      "id": 481,
+      "name": "Mark Zuckerberg",
+      "address": "USA",
+      "netWorth": 30000,
+      "image": "https://www.investopedia.com/thmb/G0c-XHhHMiQ_iu50SzKcXwT2Bpo=/2266x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-688402250-c3fd58b6a99a4729a821205bfac67168.jpg",
+      "company": "Facebook"
+    },
+    {
+      "id": 381,
+      "name": "Warren Buffett",
+      "address": "USA",
+      "netWorth": 70000,
+      "image": " https://www.investopedia.com/thmb/jq7Qo_UYPmnqn5kNcf6GYbLWhWc=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-540179188-f820573a1328459cb5cedac011088d4c.jpg",
+      "company": "Berkshire Hathaway"
+    },
+    {
+      "id": 981,
+      "name": "Larry Ellison",
+      "address": "USA",
+      "netWorth": 80000,
+      "image": "https://www.investopedia.com/thmb/-T03N1ZBOcW8K-ltadp8Gggu4cc=/1521x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1183284102-5aa79849742e4d3e9916fe605a14d803.jpg",
+      "company": "Oracle"
+    }
+  ]
